@@ -14,8 +14,8 @@ try {
     $date_to = '2015-07-02';
     //in my search there is no filter by tags
     $tags = '';
-    //searches for messages with the specific sender 'mila.developer@gmail.com'
-    $senders = array('mila.developer@gmail.com', 'akovalwm@gmail.com');
+    //searches for messages with the specific sender 'test@gmail.com'
+    $senders = array('test@gmail.com');
     //in my search there is no filter by api_keys
     $api_keys = '';
     //limits maximum number of search results to 50
